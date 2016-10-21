@@ -1,0 +1,9 @@
+#ifndef SETTINGS_H
+#define SETTINGS_H
+
+#define BUFFER_SIZE 65536
+#define SMALL_BUFFER_SIZE 64
+#define TCP_PORT 22
+#define MAX_LATENCY_SECS 11
+
+#endif
